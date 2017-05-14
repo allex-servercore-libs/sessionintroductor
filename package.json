@@ -1,0 +1,28 @@
+{
+  "name": "allex_sessionintroductorservercorelib",
+  "version": "1.0.0",
+  "description": "AllexJS Session IntroductorStrategy lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-servercore-libs/sessionintroductor.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "Session",
+    "Introductor",
+    "Strategy",
+    "server",
+    "core",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-servercore-libs/sessionintroductor/issues"
+  },
+  "homepage": "https://github.com/allex-servercore-libs/sessionintroductor#readme"
+}
